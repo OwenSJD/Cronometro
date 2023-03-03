@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cronometro</string>
+    <string name="Iniciar_button">Iniciar</string>
+    <string name="Parar_button">Parar</string>
+    <string name="Vuetas_button">Vueltas</string>
+    <string name="Reiniciar_button">Reiniciar</string>
+
+</resources>
